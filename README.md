@@ -1,3 +1,4 @@
 # git_hb-tutorial
-repository owner 
--> Aditya Pratap Sharma 
+repository owner:
+<br>
+Aditya Pratap Sharma 
